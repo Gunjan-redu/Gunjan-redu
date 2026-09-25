@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gunjan 👋
 
-<!--
-**Gunjan-redu/Gunjan-redu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I teach coding to kids. I'm becoming a backend developer by building real projects in public.
 
-Here are some ideas to get you started:
+## What I've built
+## What I've built
+- **[Patient Management API](https://github.com/Gunjan-redu/patient-management-api)** — FastAPI + PostgreSQL, JWT auth,
+  Alembic migrations
+- **[API Aggregator](https://github.com/Gunjan-redu/api-aggregator)** — combines weather, currency & news APIs;
+  upstream failure handling, TTL caching, pytest suite with mocked failures
+- **[Concepts, explained simply](https://github.com/Gunjan-redu/concepts-explained)** — programming concepts in plain
+  language, the way I'd teach them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Writing
+- [What building an API aggregator taught me about calling other people's APIs](https://dev.to/gunjan-redu/what-building-an-api-aggregator-taught-me-about-calling-other-peoples-apis-47ll)
+
+Currently learning: AI engineering, LLM APIs, RAG, and building an AI teaching assistant.
