@@ -3,7 +3,6 @@
 I teach coding to kids. I'm becoming a backend developer by building real projects in public.
 
 ## What I've built
-## What I've built
 - **[Patient Management API](https://github.com/Gunjan-redu/patient-management-api)** — FastAPI + PostgreSQL, JWT auth,
   Alembic migrations
 - **[API Aggregator](https://github.com/Gunjan-redu/api-aggregator)** — combines weather, currency & news APIs;
