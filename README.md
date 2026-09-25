@@ -1,4 +1,4 @@
-# Hi, I'm Gunjan 👋
+# Hi, I'm Gunjan 
 
 I teach coding to kids. I'm becoming a backend developer by building real projects in public.
 
