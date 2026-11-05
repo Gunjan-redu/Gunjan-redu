@@ -1,6 +1,6 @@
 # Hi, I'm Gunjan
 
-I teach coding to kids. I build backend and AI projects in public. [⚠ bio is mine — reword to taste]
+I teach coding to kids. I build backend and AI projects in public.
 
 ## What I've built
 - **[AI Teaching Assistant](https://github.com/Gunjan-redu/ai-teaching-assistant)** — a RAG assistant that answers
