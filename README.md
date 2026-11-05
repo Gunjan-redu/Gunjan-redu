@@ -19,4 +19,4 @@ I teach coding to kids. I build backend and AI projects in public.
 - [I built an AI teaching assistant, and it found gaps in my own teaching material](https://dev.to/gunjan-redu/i-built-an-ai-teaching-assistant-and-it-found-gaps-in-my-own-teaching-material-g19)
 - [What building an API aggregator taught me about calling other people's APIs](https://dev.to/gunjan-redu/what-building-an-api-aggregator-taught-me-about-calling-other-peoples-apis-47ll)
 
-Currently learning: AI agents and tool calling — building a homework grader agent next. [⚠ mine — yours to reword]
+Currently learning: AI agents and tool calling — building a homework grader agent next. 
